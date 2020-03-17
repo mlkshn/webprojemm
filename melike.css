@@ -1,0 +1,187 @@
+﻿.login-area{
+  width: 45%;
+  border: 1px solid #000;
+    overflow: hidden;
+    margin: 173px;
+    border-radius: 23px;
+
+}
+.email{
+  float: left;
+
+}
+
+.login-area input[type="text"] {
+  width: 65%;
+  padding: 7px;
+  margin:auto;
+}
+.login-area input[type="password"] {
+  width: 65%;
+  padding: 7px;
+  margin:auto;
+
+}
+.login-area input[type="submit"] {
+     width: 30%;
+    padding: 7px;
+   margin: auto;
+    background: #7f532a;
+    color: #fff;
+  
+}
+.login-area span{
+  font-size: 24px;
+      font-weight: 600;
+    text-align: center;
+    color: #7f532a;
+        padding: 30px;
+
+}
+.container-fluid{
+  background: #f1f1f1;
+}
+.e-mail{
+  text-align: center;
+    color: #9a7857;
+}
+
+.illogin{
+    width: 65%;
+  padding: 7px;
+    margin:auto;
+}
+
+.full5 span{
+
+  font-size: 40px;
+  display: block;
+  color: #7f5329;
+    margin-top: 13px;
+    text-align: center;
+        font-weight: 600;
+}
+.ekle{
+  width: 50%;
+   overflow: hidden; 
+  display: block;
+  margin-top:172px; 
+  background: #f1f1f1;
+      margin-left: 322px;
+    border-radius: 24px;
+}
+.resyukle{
+
+text-align: center;
+margin-top: 5px;
+margin:auto;
+padding-top: 41px;
+font-size: 15px;
+}
+.durumyukle{
+
+text-align: center;
+margin-top: 5px;
+margin:auto;
+padding-top: 41px;
+font-size: 15px;
+}
+
+.kitapadyukle{
+
+text-align: center;
+margin-top: 5px;
+margin:auto;
+padding-top: 41px;
+font-size: 15px;
+}
+.yazaryukle{
+
+text-align: center;
+margin-top: 5px;
+margin:auto;
+padding-top: 41px;
+font-size: 15px;
+}
+.fiyatyukle{
+
+text-align: center;
+margin-top: 5px;
+margin:auto;
+padding-top: 41px;
+font-size: 15px;
+}
+.konuyukle{
+
+text-align: center;
+margin-top: 5px;
+margin:auto;
+padding-top: 41px;
+font-size: 15px;
+}
+
+.turyukle{
+
+text-align: center;
+margin-top: 5px;
+margin:auto;
+padding-top: 41px;
+font-size: 15px;
+}
+.ekleme{
+
+text-align: center;
+margin-top: 5px;
+margin:auto;
+padding-top: 41px;
+font-size: 15px;
+}
+.ekleme input[type="submit"]{
+     background: #7f5329;
+    color: #fff;
+    width: 16%;
+    padding: 12px;
+}
+
+.durumlar{
+  width: 30%;
+    padding: 7px;
+}
+
+.kitapadyukle input[type="text"]{
+
+  width: 30%;
+    padding: 7px;
+
+}
+.yazarları{
+  width: 30%;
+  padding: 7px;
+
+}
+.fiyatyukle input[type="text"]{
+
+  width: 30%;
+    padding: 7px;
+
+}
+.konutur{
+
+  width: 30%;
+  padding: 7px;
+
+}
+.resyukle input[type="file"]{
+ 
+  width: 30%;
+    padding: 7px;
+
+}
+
+
+
+
+
+
+
+
